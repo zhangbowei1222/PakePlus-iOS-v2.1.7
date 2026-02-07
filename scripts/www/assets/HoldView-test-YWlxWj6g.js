@@ -1,0 +1,1 @@
+import{b as o,c as s,d as t}from"./index-Mrxc-rM3.js";const l={style:{padding:"50px",background:"yellow"}},d={__name:"HoldView-test",setup(n){return console.log("HoldView-test: script setup 执行了"),(r,e)=>(o(),s("div",l,[...e[0]||(e[0]=[t("h1",null,"HoldView 测试页面",-1),t("p",null,"如果看到这个页面，说明组件加载正常",-1)])]))}};export{d as default};
